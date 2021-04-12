@@ -1,0 +1,47 @@
+{
+    "Navigation_Adam": {
+        "checkpoints": [
+            {
+                "steps": 4956,
+                "file_path": "results\\MultiTrain\\Navigation_Adam\\Navigation_Adam-4956.onnx",
+                "reward": -1.540294076589977,
+                "creation_time": 1618184255.1698802
+            },
+            {
+                "steps": 5963,
+                "file_path": "results\\MultiTrain\\Navigation_Adam\\Navigation_Adam-5963.onnx",
+                "reward": -1.6156817735596136,
+                "creation_time": 1618184282.1434605
+            },
+            {
+                "steps": 6967,
+                "file_path": "results\\MultiTrain\\Navigation_Adam\\Navigation_Adam-6967.onnx",
+                "reward": -2.108482717440046,
+                "creation_time": 1618184309.1190178
+            },
+            {
+                "steps": 7972,
+                "file_path": "results\\MultiTrain\\Navigation_Adam\\Navigation_Adam-7972.onnx",
+                "reward": -2.080531214363873,
+                "creation_time": 1618184335.857778
+            },
+            {
+                "steps": 8164,
+                "file_path": "results\\MultiTrain\\Navigation_Adam\\Navigation_Adam-8164.onnx",
+                "reward": -2.080531214363873,
+                "creation_time": 1618184340.9162374
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8164,
+            "file_path": "results\\MultiTrain\\Navigation_Adam.onnx",
+            "reward": -2.080531214363873,
+            "creation_time": 1618184340.9162374
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

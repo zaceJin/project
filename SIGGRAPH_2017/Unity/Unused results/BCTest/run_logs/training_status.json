@@ -1,0 +1,23 @@
+{
+    "Navigation_Adam": {
+        "checkpoints": [
+            {
+                "steps": 192,
+                "file_path": "results\\BCTest\\Navigation_Adam\\Navigation_Adam-192.onnx",
+                "reward": null,
+                "creation_time": 1618168771.0371885
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 192,
+            "file_path": "results\\BCTest\\Navigation_Adam.onnx",
+            "reward": null,
+            "creation_time": 1618168771.0371885
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Navigation_Adam": {
+        "checkpoints": [
+            {
+                "steps": 980,
+                "file_path": "results\\FinalTest\\Navigation_Adam\\Navigation_Adam-980.onnx",
+                "reward": -2.6669999919831753,
+                "creation_time": 1618194455.5947497
+            },
+            {
+                "steps": 1243,
+                "file_path": "results\\FinalTest\\Navigation_Adam\\Navigation_Adam-1243.onnx",
+                "reward": -3.290166693429152,
+                "creation_time": 1618194462.1070805
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1243,
+            "file_path": "results\\FinalTest\\Navigation_Adam.onnx",
+            "reward": -3.290166693429152,
+            "creation_time": 1618194462.1070805
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

@@ -1,0 +1,92 @@
+Mono path[0] = 'D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Managed'
+Mono config path = 'D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/MonoBleedingEdge/etc'
+Initialize engine version: 2020.1.9f1 (145f5172610f)
+[Subsystems] Discovering subsystems at path D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.596 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Legacy Shaders/Specular' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Specular shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Specular' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Bumped Specular' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Legacy Shaders/Bumped Specular shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Bumped Specular' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+UnloadTime: 0.563300 ms
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libcoreclr.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libdl.so
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data/Mono/libSystem.dylib
+failed to get 100ns ticks
+Episode 0begins 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Max step on Episode:1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Current Reward:    -1.999981 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Episode 1begins 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Max step on Episode:2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Current Reward:    -1.999981 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Episode 2begins 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unable to save timers to file D:/Year4/Project/FKKKKK/SIGGRAPH_2017/12313/Build/AI4Animation_Data\ML-Agents\Timers\Demo_Adam_timers.json 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 9a48 -> priority: 1 
+  Thread -> id: 9958 -> priority: 1 
+  Thread -> id: a5bc -> priority: 1 
+  Thread -> id: a60c -> priority: 1 
+  Thread -> id: 72cc -> priority: 1 
+  Thread -> id: 2ec4 -> priority: 1 
+  Thread -> id: e5c -> priority: 1 
+  Thread -> id: 7624 -> priority: 1 

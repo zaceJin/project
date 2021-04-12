@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1618155723",
+        "python_version": "3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\zace3\\Miniconda3\\Scripts\\mlagents-learn config/IL0.5.yaml --run-id=TestHeustic --force",
+        "mlagents_version": "0.25.0",
+        "mlagents_envs_version": "0.25.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1618155789"
+    },
+    "total": 65.678497,
+    "count": 1,
+    "self": 0.004871799999989435,
+    "children": {
+        "run_training.setup": {
+            "total": 0.12071910000000008,
+            "count": 1,
+            "self": 0.12071910000000008
+        },
+        "TrainerController.start_learning": {
+            "total": 65.5529061,
+            "count": 1,
+            "self": 8.080000000632026e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 65.552616,
+                    "count": 1,
+                    "self": 65.552616
+                },
+                "TrainerController._save_models": {
+                    "total": 0.00020929999999452775,
+                    "count": 1,
+                    "self": 0.00020929999999452775
+                }
+            }
+        }
+    }
+}
